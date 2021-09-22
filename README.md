@@ -21,35 +21,25 @@ L	T	P	C	Theory Marks	Practical Marks
 
 Content:
 
-Sr.
-No.	Content	Total Hrs	Weightage
-%
-1	Overview of Python, Programming languages, Software development, thrust area of Python, Installing Python Jupyter notebook
-Parts of Python Programming Language: Identifiers, Keywords, statements and expressions, variables, Operators, Precedence and Associativity, Data types, Indentation, comments, reading input, print output, Type conversions, type () function and Is Operator, Dynamic and strongly typed language
+# Overview of Python, Programming languages, Software development, thrust area of Python, Installing Python Jupyter notebook Parts of Python Programming Language: 
+Identifiers, Keywords, statements and expressions, variables, Operators, Precedence and Associativity, Data types, Indentation, comments, reading input, print output, Type conversions, type () function and Is Operator, Dynamic and strongly typed language
 Control Flow Statements: If decision control flow, if..else decision control flow, if..elif..else decision control, Nested if statement, while loop, for loop, continue and break statements	
 
-
-
-06	
-
-
-
-20
-2	Functions: Built in functions, commonly used modules, definition and calling the function, return statement and void function, scope and lifetime of variables, Default Parameters, Keyword Arguments, *args and **kwargs, Command Line Arguments
+# Functions: 
+Built in functions, commonly used modules, definition and calling the function, return statement and void function, scope and lifetime of variables, Default Parameters, Keyword Arguments, *args and **kwargs, Command Line Arguments
 String: Creating and Storing Strings, Basic String Operations, Accessing Characters in String by Index Number, String Slicing and Joining, String Methods, Formatting Strings Lists:  Creating  Lists,  Basic  List  Operations,  Indexing  and  Slicing  in  Lists,  Built-In Functions Used on Lists, List Methods, The del Statement.	
 
-07	
+# Dictionaries: 
+Creating Dictionary, Accessing and Modifying key, value Pairs in Dictionaries, Built-In Functions used on Dictionaries, Dictionary Methods, The del Statement,	
+# Tuples and Sets: 
+Creating Tuples, Basic Tuple Operations, Indexing and Slicing  in Tuples, Built-In Functions Used on Tuples, Relation between Tuples and Lists, Relation between Tuples and Dictionaries, Tuple Methods, Using zip () Function, Sets, Set Methods, Traversing of Sets, Frozenset		
 
-20
-3	Dictionaries: Creating Dictionary, Accessing and Modifying key, value Pairs in Dictionaries, Built-In Functions used on Dictionaries, Dictionary Methods, The del Statement,	05	25
- 
-	Tuples and Sets: Creating Tuples, Basic Tuple Operations, Indexing and Slicing  in Tuples, Built-In Functions Used on Tuples, Relation between Tuples and Lists, Relation between Tuples and Dictionaries, Tuple Methods, Using zip () Function, Sets, Set Methods, Traversing of Sets, Frozenset		
-4	Files: Types of Files, Creating and Reading Text Data, File Methods to Read and Write Data, Reading and Writing Binary Files, The Pickle Module, Reading and Writing CSV Files, Python os and os.path Modules	04	15
-5	Introduction to Data science: NumPy and Pandas with Python, Graphing with Matplotlib pyplot: Line Graphs, Scatter Graph, Pie Charts, Bar Charts,Figures and Subplot, 3D Graphs
+# Files: 
+Types of Files, Creating and Reading Text Data, File Methods to Read and Write Data, Reading and Writing Binary Files, The Pickle Module, Reading and Writing CSV Files, Python os and os.path Modules	04	15
+
+# Introduction to Data science: 
+NumPy and Pandas with Python, Graphing with Matplotlib pyplot: Line Graphs, Scatter Graph, Pie Charts, Bar Charts,Figures and Subplot, 3D Graphs
 Case Study: Bio-Signal Plotting using Matplotlib/Pandas Library.	
-06	
-20
-	Total	28	100 %
 
 Suggested Specification table with Marks (Theory):
 
@@ -62,8 +52,7 @@ Note: This specification table shall be treated as a general guideline for stude
 
 Reference Books:
 
-1.	Gowrishankar S, Veena A, “Introduction to Python Programming”, 1st Edition, CRC Press/Taylor
-& Francis, 2018. ISBN-13: 978-0815394372
+1.	Gowrishankar S, Veena A, “Introduction to Python Programming”, 1st Edition, CRC Press/Taylor & Francis, 2018. ISBN-13: 978-0815394372
 2.	Mark Summerfield, “Programming in Python 3: A Complete Introduction to the Python Language”, Pearson Education
 3.	Zed A. Shaw, “Learn Python The Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code, 3rd edition” , Adisson-Wesley
 4.	Erik Westra, “Modular Programming with Python: introducing modular techniques for building sophisticated programs using Python”, Packt Publishing
@@ -74,8 +63,7 @@ Reference Books:
 
 Course Outcomes:
 
-Sr.
-No.	CO statement	Marks % weightage
+Sr.No.	CO statement	Marks % weightage
 CO-1	Understand the fundamental of Python syntax and be fluent in the use of Python control flow statements.	15%
 CO-2	Express proficiency in the handling of strings, functions and lists.	15%
 CO-3	Learn methods to create and manipulate Python programs by utilizing the data structures like dictionaries, tuples and sets.	20%
